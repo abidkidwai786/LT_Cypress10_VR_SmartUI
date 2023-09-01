@@ -8,7 +8,6 @@ build:
     script:
        - cd /builds/abidkidwai786/lambdatest-cypress10
        - npm install
-       - npm install -g lambdatest-cypress-cli
        - echo 'export LT_USERNAME=LT_user_name' >> ~/.bashrc
        - echo 'export LT_ACCESS_KEY=LT_access_key' >> ~/.bashrc
        - lambdatest-cypress run

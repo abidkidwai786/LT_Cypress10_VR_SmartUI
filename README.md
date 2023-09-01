@@ -1,5 +1,5 @@
-# lambdatest_cypress10
-A basic sample code for Cypress 10 setup on LambdaTest.
+# lambdatest_cypress10_smartUI
+A basic sample code for Cypress 10 SmartUI setup on LambdaTest.
 
 Steps:
 1) Clone/download the repo.
